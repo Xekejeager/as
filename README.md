@@ -21,4 +21,4 @@ Simple instructions to see this repo in action.
 
 s
 adfa
-s
+ss
