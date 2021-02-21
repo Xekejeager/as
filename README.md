@@ -16,6 +16,6 @@ Simple instructions to see this repo in action.
     # Should show some output with some passing and some failing hooks
 
 
-s
+ssd
 adfa
 ss
